@@ -3,6 +3,6 @@ AWS VPC Peering Connection project with CLI commands, use case, and verification
 
 ✅ Project Title:
 
-Create and Configure VPC Peering between Two VPCs Using AWS CLI
+Create and Configure VPC Peering between Two VPCs Using Terraform
 
 
